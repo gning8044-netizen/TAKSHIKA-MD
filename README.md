@@ -33,7 +33,7 @@ The bot uses an **online session system**, avoiding local QR scans and simplifyi
 ## 🌐 Session Generator
 
 <p align="center">
-  <a href="https://takshika-session-id.vercel.app" target="_blank">
+  <a href="https://kaya-session-id.vercel.app" target="_blank">
     <button style="padding:14px 22px;font-size:16px;border:none;border-radius:10px;background:#28a745;color:white;cursor:pointer;font-weight:bold;">
       🔐 Generate WhatsApp Session
     </button>
