@@ -1,7 +1,7 @@
 # 🤖 TAKSHIKA-MD — Advanced WhatsApp Bot
 
 <p align="center">
-  <img src="https://files.catbox.moe/1ddhgm.jpg" alt="KAYA-MD Banner" width="100%">
+  <img src="https://files.catbox.moe/1ddhgm.jpg" alt="TAKSHIKA-MD Banner" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 📌 About TAKSHIKA-MD
 
-> **KAYA-MD** is a powerful WhatsApp Multi-Device bot built with **Node.js and Baileys**.
+> **TAKSHIKA-MD** is a powerful WhatsApp Multi-Device bot built with **Node.js and Baileys**.
 
 It is designed to be:
 
@@ -33,7 +33,7 @@ The bot uses an **online session system**, avoiding local QR scans and simplifyi
 ## 🌐 Session Generator
 
 <p align="center">
-  <a href="https://kaya-session-id.vercel.app" target="_blank">
+  <a href="https://takshika-session-id.vercel.app" target="_blank">
     <button style="padding:14px 22px;font-size:16px;border:none;border-radius:10px;background:#28a745;color:white;cursor:pointer;font-weight:bold;">
       🔐 Generate WhatsApp Session
     </button>
@@ -125,8 +125,8 @@ The author is not responsible for misuse, bans, or violations.
 
 ## 👑 Author
 
-### KAYA TECH  
-Creator of **KAYA-MD**
+### SHADOW TECH  
+Creator of **TAKSHIKA-MD**
 
 <p align="center">
   <a href="https://www.youtube.com/@kaya-243" target="_blank">
