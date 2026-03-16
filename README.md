@@ -1,4 +1,4 @@
-# 🤖 KAYA-MD — Advanced WhatsApp Bot
+# 🤖 TAKSHIKA-MD — Advanced WhatsApp Bot
 
 <p align="center">
   <img src="https://files.catbox.moe/1ddhgm.jpg" alt="KAYA-MD Banner" width="100%">
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 About KAYA-MD
+## 📌 About TAKSHIKA-MD
 
 > **KAYA-MD** is a powerful WhatsApp Multi-Device bot built with **Node.js and Baileys**.
 
